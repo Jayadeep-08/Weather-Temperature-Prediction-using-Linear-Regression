@@ -1,6 +1,6 @@
 # 🌤️ Ambient Temperature Prediction using Linear Models
 
-Predict ambient temperature from historical hourly weather data using feature-engineered linear models, culminating in a Polynomial Regression (degree 2) with Ridge regularization achieving an \(R^{2}\) of 0.8387 on ~96k records.[web:10][web:19]
+Predict ambient temperature from historical hourly weather data using feature-engineered linear models, culminating in a Polynomial Regression (degree 2) with Ridge regularization achieving an \(R^{2}\) of 0.8387 on ~96k records.
 
 ---
 
